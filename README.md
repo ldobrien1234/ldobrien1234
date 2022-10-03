@@ -1,1 +1,1 @@
-Hi, I'm Liam O'Brien @ldobrien1234. I'm an undergraduate at Middlebury College. My repositories contain code from my summer research at UC Irvine in Dr. Qing Nie's lab. Over the summer, I worked towards using machine learning for modeling cell-fate.
+Hi, I'm Liam O'Brien @ldobrien1234. I'm an applied mathematics PhD student at the Ohio State University. My repositories contain code from my summer research at UC Irvine in Dr. Qing Nie's lab. Over the summer, I worked towards using machine learning for modeling cell-fate. In general, I am interested in mathematical biology.
