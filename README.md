@@ -1,1 +1,1 @@
-Hi, I'm Liam O'Brien @ldobrien1234. I'm an applied mathematics PhD student in Dr. Adriana Dawes' Lab Group at The Ohio State University. I am interested in understanding the causes of pattern formation and its failure in the development of multicellular organisms.
+Hi, I'm Liam O'Brien @ldobrien1234. I'm an applied mathematics PhD student in Dr. Adriana Dawes' Lab Group at The Ohio State University. I am interested in predicting qualitative features of biochemical dynamics without specifying model equations.
